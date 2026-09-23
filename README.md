@@ -5,3 +5,7 @@
 2.Find wrong input types
 3.Sub max - min
 ```
+### 2.[Problem-2](./problem-2.js)
+```
+1.counting each character from a string
+```
