@@ -7,5 +7,11 @@
 ```
 ### 2.[Problem-2](./problem-2.js)
 ```
-1.counting each character from a string
+1.counting each character from a string and return in a object
+```
+### 3.[Problem-3](./problem-3.js)
+```
+1.both array length should be same else false
+2.delete the value from second array if the first arrays index value is squre of second arrays index value
+3.only return true if second array is empty else return false
 ```
