@@ -15,3 +15,6 @@
 2.delete the value from second array if the first arrays index value is squre of second arrays index value
 3.only return true if second array is empty else return false
 ```
+### 4.[Problem-4](./problem-4.js)
+```
+1.Calculate sum using recursion
