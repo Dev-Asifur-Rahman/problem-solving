@@ -17,4 +17,9 @@
 ```
 ### 4.[Problem-4](./problem-4.js)
 ```
-1.Calculate sum using recursion
+1.Calculate odd numbers using recursion
+```
+### 5.[Problem-4.1](./problem-4.1.js)
+```
+optimized time and space complexity of [Problem-4](./problem-4.js)
+```
